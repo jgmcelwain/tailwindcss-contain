@@ -49,4 +49,4 @@ The `contain` property also supports the use of multiple keywords. You can use T
 | `contain: paint`       | `contain-paint`         |
 | `contain: size layout` | `contain-[size_layout]` |
 
-Note: If using multiple keywords ensure they are by an underscore (`_`), rather than a space (` `).
+Note: If using multiple keywords ensure they are separated by an underscore (`_`), rather than a space (` `).
