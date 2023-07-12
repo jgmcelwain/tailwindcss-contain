@@ -4,17 +4,8 @@ let expected = `
 .contain-\\[strict_none\\] {
     contain: strict none
 }
-.contain-none {
-    contain: none
-}
-.contain-strict {
-    contain: strict
-}
 .contain-content {
     contain: content
-}
-.contain-size {
-    contain: size
 }
 .contain-inline-size {
     contain: inline-size
@@ -22,11 +13,20 @@ let expected = `
 .contain-layout {
     contain: layout
 }
-.contain-style {
-    contain: style
+.contain-none {
+    contain: none
 }
 .contain-paint {
     contain: paint
+}
+.contain-size {
+    contain: size
+}
+.contain-strict {
+    contain: strict
+}
+.contain-style {
+    contain: style
 }
 `;
 
