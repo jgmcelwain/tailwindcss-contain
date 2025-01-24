@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This plugin is no longer necessary. Tailwind has first-class support for `contain-*` utilities.
+
 # tailwindcss-contain
 
 A plugin that provides utilities for the [`contain`](https://developer.mozilla.org/en-US/docs/Web/CSS/contain) CSS property.
